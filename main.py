@@ -99,7 +99,7 @@ def get_birthday(birthday, year, today):
 
 
 def get_ciba():
-    url = "?key=f81ba2ecf8ed73302dc63ed0f7da8542&num=10&word=黄瓜
+    url = "https://apis.tianapi.com/dream/index?key=f81ba2ecf8ed73302dc63ed0f7da8542&num=10&word=黄瓜
 "
     headers = {
         'Content-Type': 'application/json',
