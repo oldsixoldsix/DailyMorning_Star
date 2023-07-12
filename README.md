@@ -1,5 +1,5 @@
 # DailyMorning
-# 给庆宝的每日早安
+# 给瑾宝的每日早安
 2023.05.07：可以使用的新模板<br><br>
 今日：{{date.DATA}}<br>
 城市：{{city.DATA}}<br>
