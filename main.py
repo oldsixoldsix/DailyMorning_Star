@@ -99,7 +99,7 @@ def get_birthday(birthday, year, today):
 
 
 def get_ciba():
-    url = "http://open.iciba.com/dsapi/"
+    url = "https://apis.tianapi.com/dream/index"
     headers = {
         'Content-Type': 'application/json',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
