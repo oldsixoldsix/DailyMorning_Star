@@ -56,7 +56,8 @@ VX模板如下
 ![381e8ee4a7c5ec6b8c09719f2c7e486](https://user-images.githubusercontent.com/9566402/183242295-4dcf06bb-2083-4883-8745-0af753ca805c.png)
 ![1](https://user-images.githubusercontent.com/64049788/190543003-2e33fe0c-a278-492e-96fa-3be0b3110e83.png)
 
+![183242320-18500adc-14e5-4522-a3ad-ae19cc4479bf](https://github.com/oldsixoldsix/DailyMorning_Star/assets/105780157/3b70b6f2-3819-46f7-92ba-d5f2eed38013)
+
 启用自己项目下的 Action！
 ![30a5b1b2b06ba4a40a3d8ef01652409](https://user-images.githubusercontent.com/9566402/183242334-9943c538-ba3d-4d01-8377-d040143b7560.png)
 
-![183242320-18500adc-14e5-4522-a3ad-ae19cc4479bf](https://github.com/oldsixoldsix/DailyMorning_Star/assets/105780157/3b70b6f2-3819-46f7-92ba-d5f2eed38013)
