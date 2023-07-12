@@ -59,3 +59,4 @@ VX模板如下
 启用自己项目下的 Action！
 ![30a5b1b2b06ba4a40a3d8ef01652409](https://user-images.githubusercontent.com/9566402/183242334-9943c538-ba3d-4d01-8377-d040143b7560.png)
 
+![183242320-18500adc-14e5-4522-a3ad-ae19cc4479bf](https://github.com/oldsixoldsix/DailyMorning_Star/assets/105780157/3b70b6f2-3819-46f7-92ba-d5f2eed38013)
